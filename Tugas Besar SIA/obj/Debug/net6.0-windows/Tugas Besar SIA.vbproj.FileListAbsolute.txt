@@ -1,0 +1,27 @@
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\Tugas Besar SIA.exe
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\Tugas Besar SIA.deps.json
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\Tugas Besar SIA.runtimeconfig.json
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\Tugas Besar SIA.dll
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\Tugas Besar SIA.pdb
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas Besar SIA.vbproj.AssemblyReference.cache
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas_Besar_SIA.Form1.resources
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas Besar SIA.vbproj.GenerateResource.cache
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas Besar SIA.GeneratedMSBuildEditorConfig.editorconfig
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas Besar SIA.AssemblyInfoInputs.cache
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas Besar SIA.AssemblyInfo.vb
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas Besar SIA.vbproj.CoreCompileInputs.cache
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas Besar SIA.vbproj.CopyComplete
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas Besar SIA.dll
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\refint\Tugas Besar SIA.dll
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas Besar SIA.pdb
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas Besar SIA.genruntimeconfig.cache
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\ref\Tugas Besar SIA.dll
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas_Besar_SIA.Form2.resources
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas_Besar_SIA.Form3.resources
+F:\PolinesDocs\TUGAS PAK MARDIYONO\Tugas Besar SIA\obj\Debug\net6.0-windows\Tugas_Besar_SIA.Form4.resources
